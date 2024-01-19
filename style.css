@@ -380,9 +380,9 @@ button:hover {
   border: 2px solid;
 }
 
-/* .hidden {
+.hidden {
   display: none;
-} */
+}
 
 .btn-agendar {
   position: absolute;

@@ -192,14 +192,6 @@ section, h2{
 
 
 }
-/*.elemento { AQUI APLICA O EFEITO ZOOM.
-  border-radius: 12px;
-  padding: 0;
-  overflow: hidden;
-  position: relative;
-  transition: all 0.3s linear;
-}*/
-
 
 .elemento img {
   width: 150px;
